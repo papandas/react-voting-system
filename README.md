@@ -3,7 +3,7 @@ Ethereum Blockchain based decentralized voting system.
 
 Connect MetaMask to load the page properly.
 
-Click here to view demo [Go To Demo](http://demo.hexoindia.com/react/react-voting-system/).
+Click here to view demo [Go To Demo](https://papandas.github.io/react-voting-system/).
 
 Ethereum Development Enviroment : Truffle
 
